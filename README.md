@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 "# Tensorflow-Bootcamp" 
 =======
 # Tensorflow_trainings
->>>>>>> e8cbdcbb21bb1fa6fea0d2df847cf3513eeedfe1
+This project is intended for learning and keep my Tensorflow work online.
