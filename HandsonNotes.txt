@@ -1,0 +1,7 @@
+Neural Network notes from Hands-on Machine Learning 
+LTU- Linear Threshold Units
+LTU computes weighted sum of its inputs (z= w1*x1+w2*x2+....+wn*xn)
+xn=WT.x then applies step function 
+hn(x)= step(z)=step(wT*x)
+training ans LTU means finding right values of w0,w1,w2
+
